@@ -1,2 +1,2 @@
 # My own website
-[Here is my website](synaelle.cf)
+[Here is my website](http://synaelle.cf)
