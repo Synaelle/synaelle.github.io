@@ -1,2 +1,2 @@
 # My own website
-[Here is my website](synaelle.github.io)
+[Here is my website](synaelle.cf)
