@@ -1,13 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
 body{
     background-color:#242424;
     color:white;
     font-family: Ubuntu;
+    display: table-cell;
+    vertical-align: middle;
 }
 
-a:link{
-    color:rgb(187, 33, 33);
+a:link, a:visited{
+    margin-left: 8px;
 }
 
-a:visited {
-    color:rgb(187, 33, 33);
-  }
+.discord{
+    margin-left: 8px;
+}
+
+b{
+    font-size: 3em;
+}
